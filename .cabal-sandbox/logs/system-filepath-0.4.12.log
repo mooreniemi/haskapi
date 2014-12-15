@@ -1,0 +1,20 @@
+[1 of 1] Compiling Main             ( /var/folders/x1/bft77jzs0lx746bnbmmwtdsw0000gn/T/system-filepath-0.4.12-36965/system-filepath-0.4.12/dist/dist-sandbox-3a6008a8/setup/setup.hs, /var/folders/x1/bft77jzs0lx746bnbmmwtdsw0000gn/T/system-filepath-0.4.12-36965/system-filepath-0.4.12/dist/dist-sandbox-3a6008a8/setup/Main.o )
+Linking /var/folders/x1/bft77jzs0lx746bnbmmwtdsw0000gn/T/system-filepath-0.4.12-36965/system-filepath-0.4.12/dist/dist-sandbox-3a6008a8/setup/setup ...
+Configuring system-filepath-0.4.12...
+Building system-filepath-0.4.12...
+Preprocessing library system-filepath-0.4.12...
+[1 of 4] Compiling Filesystem.Path.Internal ( lib/Filesystem/Path/Internal.hs, dist/dist-sandbox-3a6008a8/build/Filesystem/Path/Internal.o )
+[2 of 4] Compiling Filesystem.Path  ( lib/Filesystem/Path.hs, dist/dist-sandbox-3a6008a8/build/Filesystem/Path.o )
+[3 of 4] Compiling Filesystem.Path.Rules ( lib/Filesystem/Path/Rules.hs, dist/dist-sandbox-3a6008a8/build/Filesystem/Path/Rules.o )
+[4 of 4] Compiling Filesystem.Path.CurrentOS ( lib/Filesystem/Path/CurrentOS.hs, dist/dist-sandbox-3a6008a8/build/Filesystem/Path/CurrentOS.o )
+
+lib/Filesystem/Path/CurrentOS.hs:37:1: Warning:
+    The qualified import of ‘Data.ByteString’ is redundant
+      except perhaps to import instances from ‘Data.ByteString’
+    To import instances alone, use: import Data.ByteString()
+In-place registering system-filepath-0.4.12...
+Creating package registration file:
+/var/folders/x1/bft77jzs0lx746bnbmmwtdsw0000gn/T/pkgConf-system-filepath-0.436965.12
+Installing library in
+/Users/Alex/Documents/Code/haskell/haskapi/.cabal-sandbox/lib/x86_64-osx-ghc-7.8.3/system-filepath-0.4.12
+Registering system-filepath-0.4.12...

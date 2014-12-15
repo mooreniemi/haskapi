@@ -1,0 +1,16 @@
+Configuring utf8-string-0.3.8...
+Building utf8-string-0.3.8...
+Preprocessing library utf8-string-0.3.8...
+[1 of 7] Compiling Codec.Binary.UTF8.String ( Codec/Binary/UTF8/String.hs, dist/dist-sandbox-3a6008a8/build/Codec/Binary/UTF8/String.o )
+[2 of 7] Compiling Codec.Binary.UTF8.Generic ( Codec/Binary/UTF8/Generic.hs, dist/dist-sandbox-3a6008a8/build/Codec/Binary/UTF8/Generic.o )
+[3 of 7] Compiling Data.String.UTF8 ( Data/String/UTF8.hs, dist/dist-sandbox-3a6008a8/build/Data/String/UTF8.o )
+[4 of 7] Compiling System.IO.UTF8   ( System/IO/UTF8.hs, dist/dist-sandbox-3a6008a8/build/System/IO/UTF8.o )
+[5 of 7] Compiling System.Environment.UTF8 ( System/Environment/UTF8.hs, dist/dist-sandbox-3a6008a8/build/System/Environment/UTF8.o )
+[6 of 7] Compiling Data.ByteString.UTF8 ( Data/ByteString/UTF8.hs, dist/dist-sandbox-3a6008a8/build/Data/ByteString/UTF8.o )
+[7 of 7] Compiling Data.ByteString.Lazy.UTF8 ( Data/ByteString/Lazy/UTF8.hs, dist/dist-sandbox-3a6008a8/build/Data/ByteString/Lazy/UTF8.o )
+In-place registering utf8-string-0.3.8...
+Creating package registration file:
+/var/folders/x1/bft77jzs0lx746bnbmmwtdsw0000gn/T/pkgConf-utf8-string-0.330539.8
+Installing library in
+/Users/Alex/Documents/Code/haskell/haskapi/.cabal-sandbox/lib/x86_64-osx-ghc-7.8.3/utf8-string-0.3.8
+Registering utf8-string-0.3.8...

@@ -1,0 +1,34 @@
+Configuring servant-0.2.1...
+Building servant-0.2.1...
+Preprocessing library servant-0.2.1...
+[ 1 of 15] Compiling Servant.Common.Text ( src/Servant/Common/Text.hs, dist/dist-sandbox-3a6008a8/build/Servant/Common/Text.o )
+[ 2 of 15] Compiling Servant.API.Raw  ( src/Servant/API/Raw.hs, dist/dist-sandbox-3a6008a8/build/Servant/API/Raw.o )
+[ 3 of 15] Compiling Servant.API.Put  ( src/Servant/API/Put.hs, dist/dist-sandbox-3a6008a8/build/Servant/API/Put.o )
+[ 4 of 15] Compiling Servant.API.Delete ( src/Servant/API/Delete.hs, dist/dist-sandbox-3a6008a8/build/Servant/API/Delete.o )
+[ 5 of 15] Compiling Servant.API.Post ( src/Servant/API/Post.hs, dist/dist-sandbox-3a6008a8/build/Servant/API/Post.o )
+[ 6 of 15] Compiling Servant.API.Get  ( src/Servant/API/Get.hs, dist/dist-sandbox-3a6008a8/build/Servant/API/Get.o )
+[ 7 of 15] Compiling Servant.API.ReqBody ( src/Servant/API/ReqBody.hs, dist/dist-sandbox-3a6008a8/build/Servant/API/ReqBody.o )
+[ 8 of 15] Compiling Servant.API.QueryParam ( src/Servant/API/QueryParam.hs, dist/dist-sandbox-3a6008a8/build/Servant/API/QueryParam.o )
+[ 9 of 15] Compiling Servant.API.Header ( src/Servant/API/Header.hs, dist/dist-sandbox-3a6008a8/build/Servant/API/Header.o )
+
+src/Servant/API/Header.hs:4:1: Warning:
+    The import of ‘GHC.TypeLits’ is redundant
+      except perhaps to import instances from ‘GHC.TypeLits’
+    To import instances alone, use: import GHC.TypeLits()
+[10 of 15] Compiling Servant.API.Capture ( src/Servant/API/Capture.hs, dist/dist-sandbox-3a6008a8/build/Servant/API/Capture.o )
+[11 of 15] Compiling Servant.API.Alternative ( src/Servant/API/Alternative.hs, dist/dist-sandbox-3a6008a8/build/Servant/API/Alternative.o )
+[12 of 15] Compiling Servant.API.Sub  ( src/Servant/API/Sub.hs, dist/dist-sandbox-3a6008a8/build/Servant/API/Sub.o )
+
+src/Servant/API/Sub.hs:6:1: Warning:
+    The import of ‘GHC.TypeLits’ is redundant
+      except perhaps to import instances from ‘GHC.TypeLits’
+    To import instances alone, use: import GHC.TypeLits()
+[13 of 15] Compiling Servant.QQ       ( src/Servant/QQ.hs, dist/dist-sandbox-3a6008a8/build/Servant/QQ.o )
+[14 of 15] Compiling Servant.Utils.Links ( src/Servant/Utils/Links.hs, dist/dist-sandbox-3a6008a8/build/Servant/Utils/Links.o )
+[15 of 15] Compiling Servant.API      ( src/Servant/API.hs, dist/dist-sandbox-3a6008a8/build/Servant/API.o )
+In-place registering servant-0.2.1...
+Creating package registration file:
+/var/folders/x1/bft77jzs0lx746bnbmmwtdsw0000gn/T/pkgConf-servant-0.230539.1
+Installing library in
+/Users/Alex/Documents/Code/haskell/haskapi/.cabal-sandbox/lib/x86_64-osx-ghc-7.8.3/servant-0.2.1
+Registering servant-0.2.1...
