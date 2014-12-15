@@ -18,4 +18,4 @@ haskapi = serve haskApi handlers
 --
 -- 'run' comes from Network.Wai.Handler.Warp
 runTestServer :: Port -> IO ()
-runTestServer port = run port haskapi
+runTestServer port = run port $ logStdout haskapi
